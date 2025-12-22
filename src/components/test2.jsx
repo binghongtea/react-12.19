@@ -23,6 +23,9 @@ class Test2 extends React.Component {
         })
         return arr
     }
+
+
+    // 渲染
     render() {
         
         setTimeout(() => {
